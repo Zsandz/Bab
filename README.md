@@ -1,9 +1,9 @@
 ### 🔰 INSTALATION SCRIPT TUNNEL 🔰
 ```
-apt update -y && apt upgrade -y && apt install wget curl -y && apt install sudo -y && wget -q https://raw.githubusercontent.com/Zsandz/Bab/main/setup-deb10-ub20.sh && chmod +x setup-deb10-ub20.sh && ./setup-deb10-ub20.sh
+apt update -y && apt upgrade -y && apt install wget curl -y && apt install sudo -y && wget -q https://raw.githubusercontent.com/Zsandz/SC-ZSANDZ/main/setup-deb10-ub20.sh && chmod +x setup-deb10-ub20.sh && ./setup-deb10-ub20.sh
 ```
 ### 🔰 UPDATE SCRIPT TUNNEL 🔰
 ```
-wget -q https://raw.githubusercontent.com/Zsandz/Bab/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/Zsandz/SC-ZSANDZ/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 ### ⚠️ Zsandz TUNNELING (OWNER) ⚠️
